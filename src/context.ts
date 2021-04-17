@@ -1,6 +1,6 @@
 import { createContext, useContext } from 'react';
 
-interface AppContext {
+export interface AppContext {
   port: number;
 }
 
